@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/dev-monk/shibe-api
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/dev-monk/shibe-webapp
